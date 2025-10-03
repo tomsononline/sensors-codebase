@@ -15,7 +15,7 @@ This repository contains example files for a variety of sensors, showing how to 
 
 ## Contributing
 
-Want to add an example for a new sensor or platform? See [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md).
+Want to add an example for a new sensor or platform? See [docs/Contributing.md](docs/Contributing.md).
 
 ## License
 
