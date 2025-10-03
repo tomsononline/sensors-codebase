@@ -62,6 +62,11 @@ sensors/
 - The maintainers will review your PR.
 - You may be asked for changes to fit repo style or improve clarity.
 - Once approved, your changes will be merged.
+
+## Code of Conduct
+
+Please be respectful and constructive. See our [Code of Conduct](./CODE_OF_CONDUCT.md) for details.
+
 ---
 
 Thank you for contributing!
